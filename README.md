@@ -6,7 +6,7 @@ Fullstack Developer
 
 :computer: I currently learning React and PHP <br>
 :video_game: I like to make videogames <br>
-:muscle: I want to make a difference in someone's life <br>
+:muscle: I want to make a difference in someone's life through technology <br>
 
 ## Tech skills
 - **Frontend:** HTML, CSS, W3.css and React
