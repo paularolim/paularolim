@@ -4,9 +4,9 @@ Fullstack Developer
 
 ## I'm a Information Systems student
 
-:computer: I currently learning React and PHP
-:video_game: I like to make videogames
-:muscle: I want to make a difference in someone's life
+:computer: I currently learning React and PHP <br>
+:video_game: I like to make videogames <br>
+:muscle: I want to make a difference in someone's life <br>
 
 ## Tech skills
 - **Frontend:** HTML, CSS, W3.css and React
