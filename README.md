@@ -9,7 +9,7 @@ Fullstack Developer
 :muscle: I want to make a difference in someone's life through technology <br>
 
 ## Tech skills
-- **Frontend:** HTML, CSS, W3.css and React
-- **Backend:** PHP (Laravel and Lumen)
+- **Frontend:** HTML, CSS and React
+- **Backend:** PHP (Laravel and Lumen), Node.js (Express.js) and Java (Spring Boot)
 - **Database:** MySQL
 - **Design:** UI & UX, Figma and Adobe Illustrator
