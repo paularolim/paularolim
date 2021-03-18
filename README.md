@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Paula Rolim 👋
 
-<!--
-**paularolim/paularolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer
 
-Here are some ideas to get you started:
+## I'm an Information Systems student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: I'm currently learning React and PHP <br>
+:video_game: I like to make videogames <br>
+:muscle: I want to make a difference in someone's life through technology <br>
+
+## Tech skills
+- **Frontend:** React and React Native
+- **Backend:** PHP (Laravel and Lumen) and Node.js (Express.js)
+- **Database:** MySQL
+- **Design:** UI & UX, Figma and Adobe Illustrator
+
+---------------------------------------
+
+#### Social
+You can find me at [LinkedIn](https://www.linkedin.com/in/paularolim/)! See you there 😉
